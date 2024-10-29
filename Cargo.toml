@@ -10,7 +10,7 @@ homepage = "https://github.com/bensatlantik/human_duration"
 documentation = "https://docs.rs/human_duration"
 readme = "README.md"
 keywords = ["duration", "time", "human-readable", "formatting", "parsing"]
-categories = ["time"]
+categories = ["no-std"]
 
 [dependencies]
 # Add any dependencies here if needed
