@@ -1,13 +1,13 @@
 ## Installation
-Add human_duration to your Cargo.toml dependencies:
+Add human_readable_duration to your Cargo.toml dependencies:
 
 [dependencies]
-human_duration = "0.1.0"
+human_readable_duration = "0.1.0"
 
 ## Usage
 The following example demonstrates how to use the format_duration function with the Duration type:
 
-use human_duration::format_duration;
+use human_readable_duration::format_duration;
 use std::time::Duration;
 
 fn main() {
