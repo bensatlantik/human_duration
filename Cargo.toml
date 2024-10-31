@@ -1,7 +1,7 @@
 [package]
 name = "human_readable_duration"
-version = "0.1.1"
-authors = ["Ben Santora"]
+version = "0.1.2"
+authors = ["Ben Santora <bensatlantik@gmail.com>"]
 edition = "2018"
 description = "A Rust library for formatting and parsing human-readable durations."
 license = "MIT"
